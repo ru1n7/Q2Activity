@@ -1,0 +1,23 @@
+body{
+	border-style: solid;
+	border-color: #whitesmoke;
+	border-width: 20px;
+}
+
+.Div1 {
+	background-color:#fd00ff ;
+	padding: 5px 5px 5px ;
+}
+.Div2{
+	background-color:#00ff38 ;
+	padding: 10px 10px 10px ;
+} 
+h2{
+	font-family: sans-serif;
+	color: fdff00;
+	text-shadow: whitesmoke;
+}
+img{
+	border-style: inset;
+	border-color: #000000;
+}
