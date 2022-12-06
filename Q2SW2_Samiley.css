@@ -1,0 +1,45 @@
+body{
+    font-family: serif;
+    margin: 100px;
+    background-color: #eedec7;
+}
+
+.Div1 {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Div2 {
+    border: 4px solid white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.t1, .d1{
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 5%;
+    border: 3px solid #FCFFE7;
+}
+
+h1{
+    text-align: center;
+	font-family: serif;
+	color: #000000;
+    letter-spacing: 12px;
+
+}
+
+img{
+    height:320px ;
+    width: 320px;
+    padding: 5px;
+    border-radius: 50px;
+    border-color: white;
+    opacity: .75;
+}
+
+img:hover{
+    opacity: 1;
+}
